@@ -26,11 +26,43 @@ public class MathApp {
         System.out.println("The lowest price is: " + lowestPrice);
 
         //Q-3
-        //Determine area of a circle
+        //Find area of a circle
         double circleRadius = 7.25;
         double circleArea = Math.PI * Math.pow(circleRadius, 2);
         //display result
         System.out.println("The area of the circle is: " + circleArea);
+
+        //Q-4
+        //Find
+
+        //display
+
+
+        //Q-5
+        //Find
+
+        //Display
+
+
+        //Q-6
+        //Find
+
+        //display
+
+
+        //Q-7
+        //Find
+
+        //display
+
+
+        //Q-8
+        //Calculate
+
+        //display
+
+
+
 
 
     }
