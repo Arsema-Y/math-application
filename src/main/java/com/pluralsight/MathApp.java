@@ -48,11 +48,12 @@ public class MathApp {
         System.out.println("The distance between the two points is: " + distance);
 
 
-
         //Q-6
         //Find
-
+        double integer = -3.8;
+        double absoluteValueOfInteger = Math.random();
         //display
+        System.out.println("The absolute value of " + integer + " is: " + absoluteValueOfInteger);
 
 
         //Q-7
