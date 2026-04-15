@@ -47,7 +47,6 @@ public class MathApp {
         //display
         System.out.println("The distance between the two points is: " + distance);
 
-
         //Q-6
         //Find
         double integer = -3.8;
@@ -55,12 +54,11 @@ public class MathApp {
         //display
         System.out.println("The absolute value of " + integer + " is: " + absoluteValueOfInteger);
 
-
         //Q-7
         //Find
-
+        double randomNumber = Math.random();
         //display
-
+        System.out.println("The random number is: " + randomNumber);
 
         //Q-8
         //Calculate
