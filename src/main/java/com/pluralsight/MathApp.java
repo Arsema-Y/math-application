@@ -61,10 +61,18 @@ public class MathApp {
         System.out.println("The random number is: " + randomNumber);
 
         //Q-8
+        //Values
+        int days = 1;
+        int hours = 1;
+        int minutes = 1;
+        int seconds = 1;
+        int milliseconds = 1;
         //Calculate
-
+        int minIn24Days = (60 * minutes) * (24 * hours) * (24 * days);
+        int millisecIn24Days = (1000 * milliseconds) * (60 * seconds) * minIn24Days;
         //display
-
+        System.out.println("There are " + minIn24Days + " minutes in 24 days");
+        System.out.println("There are " + millisecIn24Days + " milliseconds in 24 days");
 
 
 
