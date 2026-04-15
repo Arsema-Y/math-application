@@ -37,11 +37,14 @@ public class MathApp {
 
         //display
 
-
         //Q-5
         //Find
+        double x1 = 5, y1 = 10;
+        double x2 = 85, y2 = 50;
+        double distance = Math.hypot(x2-x1, y2-y1);
+        //display
+        System.out.println("The distance between the two points is: " + distance);
 
-        //Display
 
 
         //Q-6
