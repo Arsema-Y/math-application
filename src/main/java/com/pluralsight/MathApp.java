@@ -34,8 +34,10 @@ public class MathApp {
 
         //Q-4
         //Find
-
+        double number = 5;
+        double sqrtOfnumber = Math.sqrt(number);
         //display
+        System.out.println("The square root of " + number + " is: " + sqrtOfnumber);
 
         //Q-5
         //Find
